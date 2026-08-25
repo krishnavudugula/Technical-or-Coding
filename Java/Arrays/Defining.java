@@ -8,6 +8,8 @@ public class Defining {
         marks[0] = 80;
         marks[1] = 91;
         marks[2] = 98;
+
+        //int marks[] = {80,91, 98};
         System.out.println(marks); //this prints Garbage - Jargon Value
 
         // System.out.println(marks[0]);
@@ -17,5 +19,8 @@ public class Defining {
         for(int i=0; i<3; i++){
             System.out.print(marks[i] + " ");
         }
+
+
+        
     }
 }
