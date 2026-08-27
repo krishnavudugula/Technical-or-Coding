@@ -8,3 +8,4 @@ Operators :-
 3. Logical - (&&, ||, !)
 4. Bitwise - (&, |, ^, ~, <<, >>)
 5. Assignment - (=, +=, -=, *=, /=, %=)
+6. Ternary 
