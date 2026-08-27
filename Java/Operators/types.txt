@@ -1,0 +1,10 @@
+Operators :- 
+
+1. Arithmetic :-
+    Binary - (+, -, *, /, %)
+    Unary - (++, --)
+
+2. Relational - (==, <=, >=, !=, <, >)
+3. Logical - (&&, ||, !)
+4. Bitwise - (&, |, ^, ~, <<, >>)
+5. Assignment - (=, +=, -=, *=, /=, %=)
