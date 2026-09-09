@@ -1,4 +1,4 @@
-package NPTEL_JAVA;
+package NPTEL_JAVA.Assignments;
 
 class NPTEL_W2 {
 
