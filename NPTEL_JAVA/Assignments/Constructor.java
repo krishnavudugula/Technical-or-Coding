@@ -14,6 +14,6 @@ class Dog extends Animal {
 
 public class Constructor {
     public static void main(String[] args) {
-        Dog d = new Dog();
+        Dog d = new Dog();   //Base class constructor will be called followed by the derived class constructor.
     }
 }
