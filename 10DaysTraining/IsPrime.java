@@ -8,7 +8,7 @@ public class IsPrime {
                 return false;
             }
         }
-        return true;
+        return true;    
     }
     public static void main(String[] args) {
         for(int i= 10; i<100; i++){
@@ -21,3 +21,4 @@ public class IsPrime {
         }
     }
 }
+
